@@ -1,4 +1,4 @@
-module k8s-apiserver-proxy
+module github.com/wenchezhao/k8s-apiserver-proxy
 
 go 1.18
 
